@@ -4,6 +4,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOW-@Gli7chedSC2-green?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/lua-grey?style=for-the-badge&logo=lua&logoColor=%232C2D72">
 </div>
+
 ---
 
 Gli7ched's Neovim configuration Backup.
