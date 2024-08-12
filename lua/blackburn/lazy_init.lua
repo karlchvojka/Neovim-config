@@ -1,3 +1,6 @@
+--[[
+Lazy.vim Install
+]]--
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
   vim.fn.system({
@@ -12,6 +15,6 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
-    spec = "blackburn.lazy",	
+    spec = "blackburn.lazy",
     change_detection = { notify = false }
 })
