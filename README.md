@@ -1,2 +1,5 @@
 # Gli7ched's init.lua
-## v0.0.1
+<div align="center">
+    ![Static Badge](https://img.shields.io/badge/Release-1.0.0-blue?style=for-the-badge)
+</div>
+
