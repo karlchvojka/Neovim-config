@@ -10,8 +10,10 @@
 Gli7ched's Neovim configuration Backup.
 ## Credits:
 Credit for help with this setup goes primarily to ThePrimeagen.
+
 ThePrimeagens backup Neovim Config can be found here: [ThePrimeagen's Vim config repo](https://github.com/ThePrimeagen/init.lua)
-Youtube video explaining whats going on can be found here: [Video of ThePrimagen setting up his video](https://www.youtube.com/watch?v=w7i4amO_zaE)
+
+Youtube video explaining whats going on can be found here: [Video of ThePrimagen setting up his Vim config](https://www.youtube.com/watch?v=w7i4amO_zaE)
 ## Requirements
 - [Neovim](https://github.com/neovim/neovim)
 - Linux (Of some flavor)
