@@ -1,6 +1,3 @@
---[[
-Vim Remap Config
-]]--
 
 -- Set Global Leader
 vim.g.mapleader = " "
