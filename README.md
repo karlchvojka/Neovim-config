@@ -1,6 +1,6 @@
-# Gli7ched's init.lua
+# Gli7ched's init.lua V1.0.0
 <div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Release-0.0.1-blue?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Release-1.0.0-blue?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOW-@Gli7chedSC2-green?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/lua-grey?style=for-the-badge&logo=lua&logoColor=%232C2D72">
 </div>
