@@ -9,3 +9,6 @@ Note: These run at vim startup
 
 -- Runs ColorMyPencils function from: /lua/blackburn/lazy/colors.lua
 vim.cmd "lua ColorMyPencils()"
+
+-- Sets clipboard:
+vim.api.nvim_set_option("clipboard", "unnamedplus")
