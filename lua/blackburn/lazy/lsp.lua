@@ -1,3 +1,8 @@
+--[[
+--- # LSP Config Plugin settings
+-- @return Custom settings.
+--]]
+
 return {
     "neovim/nvim-lspconfig",
     dependencies = {
@@ -26,9 +31,12 @@ return {
         require("mason").setup()
         require("mason-lspconfig").setup({
             ensure_installed = {
+                "ast_grep",
+                "cssls",
                 "lua_ls",
+                "quick_lint_js",
                 "rust_analyzer",
-                "gopls",
+                "tailwindcss",
             },
             handlers = {
                 function(server_name) -- default handler (optional)
