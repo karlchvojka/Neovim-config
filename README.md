@@ -26,7 +26,8 @@ Youtube video explaining whats going on can be found here: [Video of ThePrimagen
 - Fuzzy Finder: [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 - ColorScheme: [Tokyonight](https://github.com/folke/tokyonight.nvim)
     - Style: Tokyo Night
-- Treesitter: [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - LSP: [lsp-config](https://github.com/neovim/nvim-lspconfig)
+- Nvim-Tree: [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
 - Statusline: [lualine](https://github.com/nvim-lualine/lualine.nvim)
     - Theme: palenight
+- Treesitter: [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
