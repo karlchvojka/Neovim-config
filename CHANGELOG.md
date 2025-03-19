@@ -14,8 +14,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0), 
 
 ### Changed
     - [lazy-lock.json] - LazyLoader dependency update.
+    - [lua/blackburn/lazy/colors.lua]
+        - Added documentation for the file
+    - [lua/blackburn/lazy/init.lua]
+        - Added documentation for the file
+    - [lua/blackburn/lazy/lsp.lua]
+        - Added documentation for the file
+    - [lua/blackburn/lazy/lualine.lua]
+        - Added documentation for the file
+    - [lua/blackburn/lazy/telescope.lua]
+        - Added documentation for the file
     - [lua/blackburn/lazy/treesitter.lua]
-        - Modification to default parser list.
+        - Modification to default parser list
 
 ## [1.0.0] - 2024.12.19
 
