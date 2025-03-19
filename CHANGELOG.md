@@ -13,6 +13,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0), 
 ### Changed
     - [init.lua]
         - Initiated Nvim-Tree Settings
+    - [README.md]
+        - Updated plugin list to include Nvim-Tree info.
 
 ## [1.0.2] - 2025.03.18
 
