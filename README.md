@@ -1,4 +1,4 @@
-# Gli7ched's init.lua V1.0.1
+# Gli7ched's init.lua V1.0.2
 <div align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/Release-1.0.1-blue?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOW-@Gli7chedSC2-green?style=for-the-badge">
