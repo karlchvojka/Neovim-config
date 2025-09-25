@@ -1,6 +1,6 @@
-# Gli7ched's init.lua V1.0.6
+# Gli7ched's Neovim init.lua V1.0.7
 <div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Release-1.0.6-blue?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Release-1.0.7-blue?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOW-@Gli7chedSC2-green?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/lua-grey?style=for-the-badge&logo=lua&logoColor=%232C2D72">
 </div>
@@ -50,3 +50,5 @@ Youtube video explaining whats going on can be found here: [Video of ThePrimagen
 - Statusline: [lualine](https://github.com/nvim-lualine/lualine.nvim)
     - Theme: palenight
 - Treesitter: [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- Gitsigns: [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- DiffView: [Diffview](https://github.com/sindrets/diffview.nvim) 
