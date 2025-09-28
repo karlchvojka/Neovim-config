@@ -4,6 +4,48 @@ All notable changes to this project will will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2025.09.28
+
+### Refactor of NVIM Config with the help of [Kickstart Modular Example](https://github.com/dam9000/kickstart-modular.nvim)
+
+#### Added
+    - [.gitignore]
+    - [.stylua.toml]
+    - [/lua/keymaps.lua]
+    - [/lua/lazy-bootstrap.lua]
+    - [/lua/lazy-plugins.lua]
+    - [/lua/options.lua]
+    - [/lua/custom/plugins/init.lua]
+    - [/lua/kickstart/health.lua]
+    - [/lua/kickstart/plugins/autopairs.lua]
+    - [/lua/kickstart/plugins/blink-cmp.lua]
+    - [/lua/kickstart/plugins/conform.lua]
+    - [/lua/kickstart/plugins/debug.lua]
+    - [/lua/kickstart/plugins/gitsigns.lua]
+    - [/lua/kickstart/plugins/indent_line.lua]
+    - [/lua/kickstart/plugins/init.lua]
+    - [/lua/kickstart/plugins/lspconfig.lua]
+    - [/lua/kickstart/plugins/mini.lua]
+    - [/lua/kickstart/plugins/neo-tree.lua]
+    - [/lua/kickstart/plugins/telescope.lua]
+    - [/lua/kickstart/plugins/todo-comments.lua]
+    - [/lua/kickstart/plugins/tokyonight.lua]
+    - [/lua/kickstart/plugins/treesitter.lua]
+    - [/lua/kickstart/plugins/which-key.lua]
+#### Changed
+    - [CHANGELOG.md]
+        - Added Record of changes made
+    - [README.md]
+        - Updated version numbers
+        - Removed extra information
+        - Made install instructions more linux focused
+
+    - [init.lua]
+        - Removed prev code
+        - Implimented code and comments from the kickstart
+
+#### Removed
+
 ## [1.0.8] - 2025.09.27
     - Plugin updates and sync
 
